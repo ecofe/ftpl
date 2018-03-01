@@ -1,0 +1,33 @@
+{
+  "name": "ftpl",
+  "version": "1.0.1",
+  "description": "tools for FE to get template",
+  "preferGlobal": true,
+  "bin": {
+    "ecofe": "bin/ftpl.js"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ecofe/ftpl.git"
+  },
+  "keywords": [
+    "ftpl",
+    "template",
+    "FE",
+    "cli"
+  ],
+  "author": "ecofe",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ecofe/ftpl/issues"
+  },
+  "homepage": "https://github.com/ecofe/ftpl#readme",
+  "dependencies": {
+    "colors": "^1.1.2",
+    "commander": "^2.14.1"
+  }
+}
