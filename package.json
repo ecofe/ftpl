@@ -1,10 +1,10 @@
 {
   "name": "ftpl",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "tools for FE to get template",
   "preferGlobal": true,
   "bin": {
-    "ecofe": "bin/ftpl.js"
+    "ftpl": "bin/ftpl.js"
   },
   "main": "index.js",
   "scripts": {
