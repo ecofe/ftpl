@@ -11,10 +11,8 @@ $ npm install -g ftpl
 ## Commonds
 
 ``` bash
-$ ftpl init <template-name> [project-path] # fly init webapp foo
+$ ftpl list 
 ```
 
-``` bash
-$ ftpl templates # list all avaiable templates
-```
+
 
